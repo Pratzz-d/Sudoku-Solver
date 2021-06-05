@@ -1,0 +1,4 @@
+Download the .csv file that contains 9 million different games of sudoku :
+https://mega.nz/file/JPhjBSbJ#d8_pVlsPbTO0g628yI-WXokRjKekdAlHUzEqSF_6ifk
+
+The file should be in the same directory as the programs
